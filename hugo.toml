@@ -1,0 +1,42 @@
+baseURL = 'https://jethrowang.github.io/'
+languageCode = 'en-us'
+title = "Chien-Chun Wang's (王建鈞) Portfolio"
+theme = 'PaperMod'
+
+[params]
+  env = "production"
+  description = "Personal Portfolio of Chien-Chun Wang"
+  author = "Chien-Chun Wang"
+
+[params.profileMode]
+  enabled = false
+
+[menu]
+  [[menu.main]]
+    identifier = "education"
+    name = "Education"
+    url = "/education/"
+    weight = 10
+  [[menu.main]]
+    identifier = "awards"
+    name = "Awards"
+    url = "/awards/"
+    weight = 20
+  [[menu.main]]
+    identifier = "experience"
+    name = "Experience"
+    url = "/experience/"
+    weight = 30
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 40
+  [[menu.main]]
+    identifier = "publications"
+    name = "Publications"
+    url = "/publications/"
+    weight = 50
+
+[markup.goldmark.renderer]
+  unsafe = true
