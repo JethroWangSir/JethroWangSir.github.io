@@ -22,7 +22,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.145.0 # 強制使用足夠新的版本
+      HUGO_VERSION: 0.147.0 # 將原本的 0.145.0 改為 0.147.0
     steps:
       - name: Install Hugo CLI
         run: |
