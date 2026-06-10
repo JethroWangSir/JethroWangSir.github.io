@@ -1,13 +1,13 @@
 ---
 title: "Education"
-date: 2026-03-07
+date: 2026-06-10
 draft: false
 ---
 
 * **National Taiwan Normal University (NTNU)** | Taipei, Taiwan
   * M.S. in Computer Science and Information Engineering (CSIE)
   * Sep. 2023 - Jul. 2025 | GPA: **4.00** / **4.30**
-  * Worked on **SE** [J1, C9], **ASR** [J1, C2, C5, C8], **VAD** [C4, C7], and **SQA** [C1, C3, C6] at [SMIL LAB](https://www.smil.csie.ntnu.edu.tw).
+  * Worked on **SE** [J2, C9], **ASR** [J2, C2, C5, C8], **VAD** [C4, C7], and **SQA** [J1, C1, C3, C6] at [SMIL LAB](https://www.smil.csie.ntnu.edu.tw).
   * Advisor: [Dr. Berlin Chen](https://sites.google.com/site/berlinchenatntnu/home).
 * **National Taichung University of Education (NTCU)** | Taichung, Taiwan
   * B.S. in Digital Content and Technology (DCT)

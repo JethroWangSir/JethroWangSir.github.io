@@ -1,11 +1,12 @@
 ---
 title: "Publications"
-date: 2026-03-07
+date: 2026-06-10
 draft: false
 ---
 
 ## Journal Papers
-1. **Chien-Chun Wang**, Hung-Shin Lee, Hsin-Min Wang, Berlin Chen, "[Universal robust speech adaptation for cross-domain speech recognition and enhancement](https://ieeexplore.ieee.org/abstract/document/11373872)," *IEEE Transactions on Audio, Speech, and Language Processing*, Vol. 34, pp. 1229-1242, 2026.
+1. **Chien-Chun Wang**, Hung-Shin Lee, Hsin-Min Wang, Berlin Chen, "[DeRA-MOS: Optimizing Text-to-Music Evaluation via Decoupled Listwise Ranking and Modality Alignment](https://arxiv.org/abs/2606.10010)," Accepted and to appear in *IEEE Signal Processing Letters*, 2026.
+2. **Chien-Chun Wang**, Hung-Shin Lee, Hsin-Min Wang, Berlin Chen, "[Universal robust speech adaptation for cross-domain speech recognition and enhancement](https://ieeexplore.ieee.org/abstract/document/11373872)," *IEEE Transactions on Audio, Speech, and Language Processing*, Vol. 34, pp. 1229-1242, 2026.
 
 ## Conference Papers
 1. Kuan-Tang Huang, **Chien-Chun Wang**, Cheng-Yeh Yang, Hung-Shin Lee, Hsin-Min Wang, Berlin Chen, "[Robust generative audio quality assessment: Disentangling quality from spurious correlations](https://arxiv.org/abs/2603.16201)," The IEEE International Conference on Multimedia & Expo (*ICME 2026*), Bangkok, Thailand, 5-9 July, 2026.

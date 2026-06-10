@@ -1,12 +1,12 @@
 ---
 title: "Research Experience"
-date: 2026-03-07
+date: 2026-06-10
 draft: false
 ---
 
 * **Software Engineer** | National Taiwan Normal University
   * Aug. 2025 - Oct. 2025 | Taipei, Taiwan
-  * Worked on **SQA** [C1, C3, C6] and **ASR** [J1, C2, C5].
+  * Worked on **SQA** [J1, C1, C3, C6] and **ASR** [J2, C2, C5].
 * **Industry-Academic Collaborative Research Assistant** | Realtek Semiconductor Corp.
   * Sep. 2024 - Aug. 2025 | Remote
   * Worked on **VAD** [C4, C7] and **KWS**.
@@ -16,4 +16,4 @@ draft: false
 * **Collaborator** | United Link Co., Ltd. & Academia Sinica
   * Oct. 2023 - Oct. 2025 | Remote
   * In collaboration with [Dr. Hung-Shin Lee](https://www.linkedin.com/in/hungshinlee/?originalSubdomain=tw) and [Dr. Hsin-Min Wang](https://homepage.iis.sinica.edu.tw/pages/whm/index_en.html).
-  * Worked on **SE** [J1, C9], **ASR** [J1, C2, C8], and **SQA** [C1, C3, C6].
+  * Worked on **SE** [J2, C9], **ASR** [J2, C2, C8], and **SQA** [J1, C1, C3, C6].
