@@ -7,7 +7,7 @@ draft: false
 研究成果聚焦於 robust speech/audio AI，包含 2 篇第一作者 IEEE journal 論文與 4 篇第一作者會議論文，主題涵蓋 ASR、SE、VAD、SQA。
 
 ## Selected First-Author Publications
-1. **[Journal] IEEE/ACM TASLP 2026** - Universal robust speech adaptation for cross-domain speech recognition and enhancement.
+1. **[Journal] IEEE TASLP 2026** - Universal robust speech adaptation for cross-domain speech recognition and enhancement.
 2. **[Journal] IEEE SPL 2026** - DeRA-MOS: Optimizing text-to-music evaluation via decoupled listwise ranking and modality alignment.
 3. **[Conference] ASRU 2025** - QAMRO: Quality-aware adaptive margin ranking optimization for human-aligned assessment of audio generation systems.
 4. **[Conference] ASRU 2025** - SincQDR-VAD: A noise-robust voice activity detection framework leveraging learnable filters and ranking-aware optimization.
