@@ -4,9 +4,22 @@ title: "About Me"
 
 <img src="/images/me.jpg" width="261" style="float: left; margin-right: 25px; margin-bottom: 15px; border-radius: 8px;" alt="Chien-Chun Wang">
 
-**Chien-Chun Wang (王建鈞)** is currently a Machine Learning Engineer at E.SUN Financial Holding Co., Ltd. He received his M.S. degree in Computer Science and Information Engineering from National Taiwan Normal University (NTNU) in July 2025, and his B.S. degree in Digital Content and Technology from National Taichung University of Education (NTCU) in June 2022. During his master's studies, he was a member of the Speech and Machine Intelligence Laboratory (SMIL LAB), advised by Dr. Berlin Chen.
+## AI Research Engineer | Speech AI & Applied ML
 
-His exceptional research work has been recognized with several prestigious honors, including the Excellent Award of the 25th ACLCLP Thesis Award (中華民國計算語言學學會碩士論文獎優等) and the 18th TSC Thesis Award (崇越論文大賞優等). Mr. Wang's research interests generally lie in the areas of Speech Enhancement (SE), Automatic Speech Recognition (ASR), Voice Activity Detection (VAD), Keyword Spotting (KWS), Speech Quality Assessment (SQA), and Machine Learning in general.
+**Chien-Chun Wang (王建鈞)** is a Machine Learning Engineer at E.SUN Financial Holding Co., Ltd., targeting **AI Research Engineer** roles in speech AI, applied machine learning, and enterprise AI systems. His work connects research-driven model design with practical evaluation and deployment, covering **Automatic Speech Recognition (ASR)**, **Text-to-Speech (TTS)**, **Voice Activity Detection (VAD)**, **Keyword Spotting (KWS)**, **Speech Enhancement (SE)**, **Speech Quality Assessment (SQA)**, and knowledge-management evaluation workflows.
+
+**王建鈞目前任職於玉山金控，目標職位為 AI Research Engineer。** 他的專長聚焦於語音 AI、應用機器學習與企業內部 AI 系統，能將研究方法落地到模型評估、指標設計、部署流程與實務應用場景。
+
+### Highlights
+
+* Built evaluation workflows for internal knowledge-management context recall, vendor TTS deployment, and internal ASR benchmarking at E.SUN Financial Holding.
+* Published and accepted research across IEEE, ACLCLP, ISCA, and related speech/audio venues, with first-author work in robust ASR, speech enhancement, VAD, and generative audio assessment.
+* Developed **SincQDR-VAD**, a compact noise-robust VAD framework using learnable sinc filters and ranking-aware optimization, improving AUROC/F2-Score while reducing parameters compared with representative lightweight baselines.
+* Improved industrial keyword spotting models with Realtek Semiconductor Corp., achieving a **43.23% reduction in false alarms** under challenging noise conditions.
+
+### Technical Stack
+
+**Python, PyTorch, Hugging Face, Whisper, Docker, CUDA, Linux, Git, GCP, Azure**
 
 <div style="clear: both;"></div>
 
