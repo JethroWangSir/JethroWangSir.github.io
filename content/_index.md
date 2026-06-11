@@ -2,9 +2,9 @@
 title: "About Me"
 ---
 
-<img src="/images/me.jpg" width="261" style="float: left; margin-right: 25px; margin-bottom: 15px; border-radius: 8px;" alt="Chien-Chun Wang">
-
 ## AI Research Engineer | Speech AI & Applied ML
+
+<img src="/images/me.jpg" width="261" style="float: left; margin-right: 25px; margin-bottom: 15px; border-radius: 8px;" alt="Chien-Chun Wang">
 
 **Chien-Chun Wang (王建鈞)** is a Machine Learning Engineer at E.SUN Financial Holding Co., Ltd., targeting **AI Research Engineer** roles in speech AI and applied machine learning. He works on research-driven model design, evaluation, and deployment for **ASR, SE, VAD, KWS, SQA, TTS**, and enterprise AI systems.
 
