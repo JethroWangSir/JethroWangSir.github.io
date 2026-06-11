@@ -13,7 +13,7 @@ title: "About Me"
 ### Key Proof Points
 
 * **First-author publications:** 2 IEEE journal papers, including IEEE TASLP 2026 and IEEE SPL 2026, plus 4 first-author conference papers at ICASSP, ASRU, and SLT.
-* **Industry AI deployment:** built internal KM context-recall evaluation, ASR benchmarking, and VoAI TTS deployment on GKE at E.SUN Financial Holding.
+* **Industry AI deployment:** built KM recall/context-recall evaluation with 600 test cases and 250 documents, MER-based ASR benchmarking, and VoAI TTS deployment on GKE.
 * **Robust speech AI research:** developed SincQDR-VAD and improved KWS models, including a **43.23% false-alarm reduction** under challenging noise.
 
 ### Research & Engineering Focus

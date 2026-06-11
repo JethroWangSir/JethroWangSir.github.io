@@ -1,17 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>About Me on Chien-Chun Wang's (王建鈞) Portfolio</title><link>https://JethroWangSir.github.io/</link><description>Recent content in About Me on Chien-Chun Wang's (王建鈞) Portfolio</description><generator>Hugo -- 0.157.0</generator><language>en-us</language><lastBuildDate>Thu, 11 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://JethroWangSir.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Experience</title><link>https://JethroWangSir.github.io/experience/</link><pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate><guid>https://JethroWangSir.github.io/experience/</guid><description>&lt;ul&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>About Me on Chien-Chun Wang&#39;s (王建鈞) Portfolio</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in About Me on Chien-Chun Wang&#39;s (王建鈞) Portfolio</description>
+    <generator>Hugo -- 0.157.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Experience</title>
+      <link>http://localhost:1313/experience/</link>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experience/</guid>
+      <description>&lt;p&gt;企業 AI 與語音研究雙軌經歷：目前在玉山金控負責 KM 評估、ASR benchmark、TTS 內部部署，同時持續與 United Link、中央研究院合作語音 AI 研究。&lt;/p&gt;
+&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Machine Learning Engineer&lt;/strong&gt; | E.SUN Financial Holding Co., Ltd.
 &lt;ul&gt;
-&lt;li&gt;Current | Taipei, Taiwan&lt;/li&gt;
-&lt;li&gt;Designed evaluation workflows for an internal knowledge-management (KM) system, focusing on context recall and retrieval-quality indicators.&lt;/li&gt;
-&lt;li&gt;Deployed an external vendor&amp;rsquo;s &lt;strong&gt;VoAI TTS&lt;/strong&gt; model to the company&amp;rsquo;s internal &lt;strong&gt;GKE&lt;/strong&gt; environment.&lt;/li&gt;
-&lt;li&gt;Built internal &lt;strong&gt;ASR&lt;/strong&gt; evaluation workflows for benchmarking recognition quality and supporting model/vendor assessment.&lt;/li&gt;
-&lt;li&gt;玉山金控機器學習工程師，負責企業內部 KM context recall 評估、VoAI TTS 模型上 GKE 部署，以及內部 ASR 指標評估流程。&lt;/li&gt;
+&lt;li&gt;Nov. 2025 - Present | Taipei, Taiwan&lt;/li&gt;
+&lt;li&gt;Designed evaluation workflows for an internal knowledge-management (KM) system, defining &lt;strong&gt;recall&lt;/strong&gt; and &lt;strong&gt;context recall&lt;/strong&gt; metrics over &lt;strong&gt;600 test questions&lt;/strong&gt; and &lt;strong&gt;250 internal documents&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Built &lt;strong&gt;ASR&lt;/strong&gt; benchmarking workflows using &lt;strong&gt;MER&lt;/strong&gt; to compare internal Kaldi models, pre-trained Whisper, and Gemini ASR.&lt;/li&gt;
+&lt;li&gt;Deployed an external vendor&amp;rsquo;s &lt;strong&gt;VoAI TTS&lt;/strong&gt; model as an internal service/API on the company&amp;rsquo;s &lt;strong&gt;GKE&lt;/strong&gt; environment.&lt;/li&gt;
+&lt;li&gt;玉山金控機器學習工程師，負責企業內部 KM recall/context recall 評估、ASR MER benchmark，以及 VoAI TTS 模型上 GKE 內部服務部署。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Research Collaborator&lt;/strong&gt; | United Link Co., Ltd. &amp;amp; Academia Sinica
 &lt;ul&gt;
 &lt;li&gt;Oct. 2023 - Present | Remote&lt;/li&gt;
-&lt;li&gt;In collaboration with &lt;a href="https://www.linkedin.com/in/hungshinlee/?originalSubdomain=tw"&gt;Dr. Hung-Shin Lee&lt;/a&gt; and &lt;a href="https://homepage.iis.sinica.edu.tw/pages/whm/index_en.html"&gt;Dr. Hsin-Min Wang&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;In collaboration with &lt;a href=&#34;https://www.linkedin.com/in/hungshinlee/?originalSubdomain=tw&#34;&gt;Dr. Hung-Shin Lee&lt;/a&gt; and &lt;a href=&#34;https://homepage.iis.sinica.edu.tw/pages/whm/index_en.html&#34;&gt;Dr. Hsin-Min Wang&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Ongoing collaboration on research systems across &lt;strong&gt;SE&lt;/strong&gt; [J2, C10], &lt;strong&gt;ASR&lt;/strong&gt; [J2, C3, C9], &lt;strong&gt;SQA&lt;/strong&gt; [J1, C2, C4, C7], and &lt;strong&gt;KWS&lt;/strong&gt; [C1], contributing to publications and challenge-oriented experiments.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -29,63 +45,66 @@
 &lt;li&gt;Co-developed &lt;strong&gt;SincQDR-VAD&lt;/strong&gt;, combining learnable sinc filters with quadratic disparity ranking loss to improve noise robustness and recall-oriented VAD performance.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Research Assistant for &lt;a href="https://scholar.google.com/citations?user=hDNxuvYAAAAJ&amp;amp;hl=zh-TW"&gt;Dr. Jeih-Weih Hung&lt;/a&gt;&lt;/strong&gt; | National Chi Nan University (NCNU)
+&lt;li&gt;&lt;strong&gt;Research Assistant for &lt;a href=&#34;https://scholar.google.com/citations?user=hDNxuvYAAAAJ&amp;amp;hl=zh-TW&#34;&gt;Dr. Jeih-Weih Hung&lt;/a&gt;&lt;/strong&gt; | National Chi Nan University (NCNU)
 &lt;ul&gt;
 &lt;li&gt;Apr. 2024 - Sep. 2025 | Remote&lt;/li&gt;
 &lt;li&gt;Conducted &lt;strong&gt;SE&lt;/strong&gt; and &lt;strong&gt;VAD&lt;/strong&gt; [C5, C8] research, with emphasis on robust speech detection and speech enhancement under noisy acoustic conditions.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Selected Projects</title><link>https://JethroWangSir.github.io/projects/</link><pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate><guid>https://JethroWangSir.github.io/projects/</guid><description>&lt;ul&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Selected AI/ML Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;p&gt;精選專案聚焦於企業 AI 評估與語音模型研究，涵蓋 KM retrieval/context recall、ASR benchmark、TTS deployment、MOS prediction、KWS、VAD 等應用。&lt;/p&gt;
+&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Enterprise AI Evaluation &amp;amp; Speech Deployment Workflows&lt;/strong&gt; | E.SUN Financial Holding Co., Ltd.
 &lt;ul&gt;
-&lt;li&gt;Built evaluation workflows for internal KM context recall and internal ASR benchmarking.&lt;/li&gt;
-&lt;li&gt;Deployed an external vendor&amp;rsquo;s &lt;strong&gt;VoAI TTS&lt;/strong&gt; model to an internal &lt;strong&gt;GKE&lt;/strong&gt; environment.&lt;/li&gt;
-&lt;li&gt;Focus: enterprise AI evaluation, speech model assessment, cloud-native deployment, and reproducible benchmarking.&lt;/li&gt;
-&lt;li&gt;企業內部 AI 專案：KM context recall 指標評估、ASR 評估流程、VoAI TTS 模型上 GKE 部署。&lt;/li&gt;
+&lt;li&gt;Problem: establish reproducible evaluation workflows for internal KM retrieval quality, ASR comparison, and TTS service deployment.&lt;/li&gt;
+&lt;li&gt;Method: defined &lt;strong&gt;recall&lt;/strong&gt; and &lt;strong&gt;context recall&lt;/strong&gt; metrics using &lt;strong&gt;600 test questions&lt;/strong&gt; (200 retail banking, 400 corporate banking) and &lt;strong&gt;250 documents&lt;/strong&gt; (100 retail, 150 corporate).&lt;/li&gt;
+&lt;li&gt;Result: built &lt;strong&gt;MER-based ASR benchmarking&lt;/strong&gt; for internal Kaldi models, pre-trained Whisper, and Gemini ASR; deployed &lt;strong&gt;VoAI TTS&lt;/strong&gt; as an internal service/API on &lt;strong&gt;GKE&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;中文摘要：企業內部 AI 專案，涵蓋 KM recall/context recall 評估、ASR MER benchmark、VoAI TTS 模型上 GKE 內部服務部署。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;MOS Predictor for AudioMOS Challenge 2025 - QAMRO&lt;/strong&gt; [C4] | May 2025 - Jun. 2025
 &lt;ul&gt;
-&lt;li&gt;Designed a quality-aware ranking system for evaluating text-to-speech (TTS), text-to-audio (TTA), and text-to-music (TTM) generation systems.&lt;/li&gt;
-&lt;li&gt;Achieved &lt;strong&gt;3rd place for Track 1&lt;/strong&gt; in AudioMOS Challenge 2025.&lt;/li&gt;
-&lt;li&gt;Research focus: human-aligned audio generation assessment, adaptive margin ranking, and robust MOS prediction.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/JethroWangSir/QAMRO"&gt;GitHub Repository&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Problem: improve human-aligned quality assessment for TTS, TTA, and TTM generation systems.&lt;/li&gt;
+&lt;li&gt;Method: designed a quality-aware adaptive margin ranking system for robust MOS prediction.&lt;/li&gt;
+&lt;li&gt;Result: achieved &lt;strong&gt;3rd place for Track 1&lt;/strong&gt; in AudioMOS Challenge 2025.&lt;/li&gt;
+&lt;li&gt;中文摘要：設計音訊生成品質評估模型，在 AudioMOS Challenge 2025 Track 1 獲得第三名。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/JethroWangSir/QAMRO&#34;&gt;GitHub Repository&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Keyword Spotter&lt;/strong&gt; | Realtek Semiconductor Corp. | Mar. 2025 - May 2025
 &lt;ul&gt;
-&lt;li&gt;Improved two keyword spotting models, &lt;a href="https://github.com/JethroWangSir/bcresnet/tree/sr"&gt;BC-ResNet&lt;/a&gt; and &lt;a href="https://github.com/JethroWangSir/PhonMatchNet/tree/phonmatchnet"&gt;PhonMatchNet&lt;/a&gt;, for noisy industrial scenarios.&lt;/li&gt;
-&lt;li&gt;Achieved a &lt;strong&gt;43.23% reduction in false alarms&lt;/strong&gt; under challenging noise conditions.&lt;/li&gt;
-&lt;li&gt;Focus: robust KWS, false alarm reduction, noisy-condition evaluation, and model comparison.&lt;/li&gt;
+&lt;li&gt;Problem: reduce false alarms for keyword spotting under challenging noisy conditions.&lt;/li&gt;
+&lt;li&gt;Method: improved &lt;a href=&#34;https://github.com/JethroWangSir/bcresnet/tree/sr&#34;&gt;BC-ResNet&lt;/a&gt; and &lt;a href=&#34;https://github.com/JethroWangSir/PhonMatchNet/tree/phonmatchnet&#34;&gt;PhonMatchNet&lt;/a&gt; variants for industrial KWS scenarios.&lt;/li&gt;
+&lt;li&gt;Result: achieved a &lt;strong&gt;43.23% reduction in false alarms&lt;/strong&gt; under challenging noise conditions.&lt;/li&gt;
+&lt;li&gt;中文摘要：與 Realtek 產學合作，針對噪音環境改善 KWS 模型並降低誤觸發。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Voice Activity Detector - SincQDR-VAD&lt;/strong&gt; [C5] | Realtek Semiconductor Corp. | Nov. 2024 - Feb. 2025
 &lt;ul&gt;
-&lt;li&gt;Built a compact noise-robust VAD framework using a learnable &lt;strong&gt;Sinc-extractor&lt;/strong&gt; front end and &lt;strong&gt;quadratic disparity ranking (QDR)&lt;/strong&gt; loss.&lt;/li&gt;
-&lt;li&gt;Improved robustness in low-SNR scenarios, including absolute AUROC gains on AVA-Speech and relative F2-Score gains on ACAM.&lt;/li&gt;
-&lt;li&gt;Reduced parameter count by &lt;strong&gt;31%&lt;/strong&gt; compared with a representative lightweight VAD baseline, supporting practical edge/resource-constrained deployment.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://arxiv.org/pdf/2508.20885"&gt;Paper&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://huggingface.co/spaces/jethrowang/SincQDR-VAD"&gt;Hugging Face Demo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Problem: improve VAD robustness under unseen and low-SNR noise conditions.&lt;/li&gt;
+&lt;li&gt;Method: built a compact noise-robust VAD framework using a learnable &lt;strong&gt;Sinc-extractor&lt;/strong&gt; front end and &lt;strong&gt;quadratic disparity ranking (QDR)&lt;/strong&gt; loss.&lt;/li&gt;
+&lt;li&gt;Result: improved low-SNR robustness, increased AUROC/F2-Score, and reduced parameter count by &lt;strong&gt;31%&lt;/strong&gt; compared with a representative lightweight VAD baseline.&lt;/li&gt;
+&lt;li&gt;中文摘要：與 Realtek 產學合作，提出 SincQDR-VAD，在低訊噪比情境提升語音偵測穩健性並降低模型參數量。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2508.20885&#34;&gt;Paper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://huggingface.co/spaces/jethrowang/SincQDR-VAD&#34;&gt;Hugging Face Demo&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Education</title><link>https://JethroWangSir.github.io/education/</link><pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate><guid>https://JethroWangSir.github.io/education/</guid><description>&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;National Taiwan Normal University (NTNU)&lt;/strong&gt; | Taipei, Taiwan
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Awards</title>
+      <link>http://localhost:1313/awards/</link>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/awards/</guid>
+      <description>&lt;p&gt;獎項包含論文獎、最佳論文、國際挑戰賽名次與研究補助，主要支撐語音 AI 研究能力與競賽型模型評估成果。&lt;/p&gt;
+&lt;h2 id=&#34;research-awards&#34;&gt;Research Awards&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;M.S. in Computer Science and Information Engineering (CSIE)&lt;/li&gt;
-&lt;li&gt;Sep. 2023 - Jul. 2025 | GPA: &lt;strong&gt;4.00&lt;/strong&gt; / &lt;strong&gt;4.30&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Worked on &lt;strong&gt;SE&lt;/strong&gt; [J2, C10], &lt;strong&gt;ASR&lt;/strong&gt; [J2, C3, C6, C9], &lt;strong&gt;VAD&lt;/strong&gt; [C5, C8], and &lt;strong&gt;SQA&lt;/strong&gt; [J1, C2, C4, C7] at &lt;a href="https://www.smil.csie.ntnu.edu.tw"&gt;SMIL LAB&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Advisor: &lt;a href="https://sites.google.com/site/berlinchenatntnu/home"&gt;Dr. Berlin Chen&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;National Taichung University of Education (NTCU)&lt;/strong&gt; | Taichung, Taiwan
-&lt;ul&gt;
-&lt;li&gt;B.S. in Digital Content and Technology (DCT)&lt;/li&gt;
-&lt;li&gt;Sep. 2018 - Jun. 2022 | GPA: &lt;strong&gt;3.30&lt;/strong&gt; / &lt;strong&gt;4.30&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Worked on &lt;strong&gt;Multimedia Game Design&lt;/strong&gt; [C11].&lt;/li&gt;
-&lt;li&gt;Advisor: &lt;a href="https://itech.ntcu.edu.tw/%E7%8E%8B%E6%9B%89%E7%92%BF91%E8%B3%87%E6%96%992.htm"&gt;Dr. Hsiao-Shen Wang&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Honor &amp; Awards</title><link>https://JethroWangSir.github.io/awards/</link><pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate><guid>https://JethroWangSir.github.io/awards/</guid><description>&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;ROCLING 2025 Best Paper Award&lt;/strong&gt; [C6] | Nov. 2025
 &lt;ul&gt;
 &lt;li&gt;The 37th Conference on Computational Linguistics and Speech Processing&lt;/li&gt;
@@ -101,9 +120,12 @@
 &lt;li&gt;TOPCO SCIENTIFIC Co., Ltd., Taiwan&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;challenge--academic-honors&#34;&gt;Challenge &amp;amp; Academic Honors&lt;/h2&gt;
+&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;AudioMOS Challenge 2025 - 3rd Place for Track 1&lt;/strong&gt; [C4] | Jul. 2025
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://sites.google.com/view/voicemos-challenge/audiomos-challenge-2025"&gt;Official Website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sites.google.com/view/voicemos-challenge/audiomos-challenge-2025&#34;&gt;Official Website&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;MOST Student Conference Travel Grant&lt;/strong&gt; [C10] | IEEE SLT 2024, Dec. 2024
@@ -116,22 +138,69 @@
 &lt;li&gt;Dept. of CSIE in NTNU, Taiwan&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Publications</title><link>https://JethroWangSir.github.io/publications/</link><pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate><guid>https://JethroWangSir.github.io/publications/</guid><description>&lt;h2 id="journal-papers"&gt;Journal Papers&lt;/h2&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Education</title>
+      <link>http://localhost:1313/education/</link>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/education/</guid>
+      <description>&lt;p&gt;學歷背景以資訊工程與語音 AI 研究為核心，碩士論文聚焦 robust speech recognition/enhancement，後續延伸為第一作者 TASLP 期刊論文。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;National Taiwan Normal University (NTNU)&lt;/strong&gt; | Taipei, Taiwan
+&lt;ul&gt;
+&lt;li&gt;M.S. in Computer Science and Information Engineering (CSIE)&lt;/li&gt;
+&lt;li&gt;Sep. 2023 - Jul. 2025 | GPA: &lt;strong&gt;4.00&lt;/strong&gt; / &lt;strong&gt;4.30&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Thesis: &lt;strong&gt;A Study on Robust Speech Recognition and Enhancement Leveraging Unsupervised Domain Adaptation&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Research focus: &lt;strong&gt;SE&lt;/strong&gt; [J2, C10], &lt;strong&gt;ASR&lt;/strong&gt; [J2, C3, C6, C9], &lt;strong&gt;VAD&lt;/strong&gt; [C5, C8], and &lt;strong&gt;SQA&lt;/strong&gt; [J1, C2, C4, C7] at &lt;a href=&#34;https://www.smil.csie.ntnu.edu.tw&#34;&gt;SMIL LAB&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;The thesis was later extended into the first-author TASLP journal paper, &lt;strong&gt;Universal Robust Speech Adaptation for Cross-Domain Speech Recognition and Enhancement&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Advisor: &lt;a href=&#34;https://sites.google.com/site/berlinchenatntnu/home&#34;&gt;Dr. Berlin Chen&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;National Taichung University of Education (NTCU)&lt;/strong&gt; | Taichung, Taiwan
+&lt;ul&gt;
+&lt;li&gt;B.S. in Digital Content and Technology (DCT)&lt;/li&gt;
+&lt;li&gt;Sep. 2018 - Jun. 2022 | GPA: &lt;strong&gt;3.30&lt;/strong&gt; / &lt;strong&gt;4.30&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Undergraduate focus: &lt;strong&gt;Multimedia Game Design&lt;/strong&gt; [C11].&lt;/li&gt;
+&lt;li&gt;Advisor: &lt;a href=&#34;https://itech.ntcu.edu.tw/%E7%8E%8B%E6%9B%89%E7%92%BF91%E8%B3%87%E6%96%992.htm&#34;&gt;Dr. Hsiao-Shen Wang&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/publications/</link>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/</guid>
+      <description>&lt;p&gt;研究成果聚焦於 robust speech/audio AI，包含 2 篇第一作者 IEEE journal 論文與 4 篇第一作者會議論文，主題涵蓋 ASR、SE、VAD、SQA 與 generative audio assessment。&lt;/p&gt;
+&lt;h2 id=&#34;selected-first-author-publications&#34;&gt;Selected First-Author Publications&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Chien-Chun Wang&lt;/strong&gt;, Hung-Shin Lee, Hsin-Min Wang, Berlin Chen, &amp;ldquo;&lt;a href="https://arxiv.org/abs/2606.10010"&gt;DeRA-MOS: Optimizing text-to-music evaluation via decoupled listwise ranking and modality alignment&lt;/a&gt;,&amp;rdquo; Accepted and to appear in &lt;em&gt;IEEE Signal Processing Letters&lt;/em&gt;, 2026.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Chien-Chun Wang&lt;/strong&gt;, Hung-Shin Lee, Hsin-Min Wang, Berlin Chen, &amp;ldquo;&lt;a href="https://ieeexplore.ieee.org/abstract/document/11373872"&gt;Universal robust speech adaptation for cross-domain speech recognition and enhancement&lt;/a&gt;,&amp;rdquo; &lt;em&gt;IEEE Transactions on Audio, Speech, and Language Processing&lt;/em&gt;, Vol. 34, pp. 1229-1242, 2026.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[Journal] IEEE/ACM TASLP 2026&lt;/strong&gt; - Universal robust speech adaptation for cross-domain speech recognition and enhancement.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[Journal] IEEE SPL 2026&lt;/strong&gt; - DeRA-MOS: Optimizing text-to-music evaluation via decoupled listwise ranking and modality alignment.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[Conference] ASRU 2025&lt;/strong&gt; - QAMRO: Quality-aware adaptive margin ranking optimization for human-aligned assessment of audio generation systems.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[Conference] ASRU 2025&lt;/strong&gt; - SincQDR-VAD: A noise-robust voice activity detection framework leveraging learnable filters and ranking-aware optimization.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[Conference] ICASSP 2025&lt;/strong&gt; - Channel-aware domain-adaptive generative adversarial network for robust speech recognition.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[Conference] SLT 2024&lt;/strong&gt; - Effective noise-aware data simulation for domain-adaptive speech enhancement leveraging dynamic stochastic perturbation.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id="conference-papers"&gt;Conference Papers&lt;/h2&gt;
+&lt;h2 id=&#34;journal-papers&#34;&gt;Journal Papers&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;Ming-Hsiang Hu, Kuan-Tang Huang, &lt;strong&gt;Chien-Chun Wang&lt;/strong&gt;, Hung-Shin Lee, Berlin Chen, &amp;ldquo;Personalized keyword spotting for user-defined keywords leveraging text-independent speaker verification,&amp;rdquo; the 27st Annual Conference of the International Speech Communication Association (&lt;em&gt;Interspeech 2026&lt;/em&gt;), Sydney, Australia, September 27-October 1, 2026.&lt;/li&gt;
-&lt;li&gt;Kuan-Tang Huang, &lt;strong&gt;Chien-Chun Wang&lt;/strong&gt;, Cheng-Yeh Yang, Hung-Shin Lee, Hsin-Min Wang, Berlin Chen, &amp;ldquo;&lt;a href="https://arxiv.org/abs/2603.16201"&gt;Robust generative audio quality assessment: Disentangling quality from spurious correlations&lt;/a&gt;,&amp;rdquo; The IEEE International Conference on Multimedia &amp;amp; Expo (&lt;em&gt;ICME 2026&lt;/em&gt;), Bangkok, Thailand, 5-9 July, 2026.&lt;/li&gt;
-&lt;li&gt;Cheng-Yeh Yang, &lt;strong&gt;Chien-Chun Wang&lt;/strong&gt;, Li-Wei Chen, Hung-Shin Lee, Hsin-Min Wang, Berlin Chen, &amp;ldquo;&lt;a href="https://arxiv.org/abs/2602.22039"&gt;TG-ASR: Translation-guided learning with parallel gated cross attention for low-resource automatic speech recognition&lt;/a&gt;,&amp;rdquo; the 15th edition of the Language Resources and Evaluation Conference (&lt;em&gt;LREC 2026&lt;/em&gt;), Palma de Mallorca, Spain, 11-16 May, 2026.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Chien-Chun Wang&lt;/strong&gt;, Kuan-Tang Huang, Cheng-Yeh Yang, Hung-Shin Lee, Hsin-Min Wang, Berlin Chen, &amp;ldquo;&lt;a href="https://arxiv.org/abs/2508.08957"&gt;QAMRO: Quality-aware adaptive margin ranking optimization for human-aligned assessment of audio generation systems&lt;/a&gt;,&amp;rdquo; IEEE workshop on Automatic Speech Recognition and Understanding (&lt;em&gt;ASRU 2025&lt;/em&gt;), Honolulu, Hawaii, USA, December 6-10, 2025. (Challenge Track)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Chien-Chun Wang&lt;/strong&gt;, En-Lun Yu, Jeih-Weih Hung, Shih-Chieh Huang, Berlin Chen, &amp;ldquo;&lt;a href="https://arxiv.org/abs/2508.20885"&gt;SincQDR-VAD: A noise-robust voice activity detection framework leveraging learnable filters and ranking-aware optimization&lt;/a&gt;,&amp;rdquo; IEEE workshop on Automatic Speech Recognition and Understanding (&lt;em&gt;ASRU 2025&lt;/em&gt;), Honolulu, Hawaii, USA, December 6-10, 2025.&lt;/li&gt;
-&lt;li&gt;Hung-Yang Sung, &lt;strong&gt;Chien-Chun Wang&lt;/strong&gt;, Kuan-Tang Huang, Tien-Hong Lo, Yu-Sheng Tsao, Yung-Chang Hsu, Berlin Chen, &amp;ldquo;&lt;a href="https://aclanthology.org/2025.rocling-main.21/"&gt;CLiFT-ASR: A cross-lingual fine-tuning framework for low-resource Taiwanese Hokkien speech recognition&lt;/a&gt;,&amp;rdquo; the 37th International Conference on Computational Linguistics and Speech Processing (&lt;em&gt;ROCLING 2025&lt;/em&gt;), Taipei, Taiwan, November 20-22, 2025. (&lt;strong&gt;Best Paper Award&lt;/strong&gt;)&lt;/li&gt;
-&lt;li&gt;Cheng-Yeh Yang, Kuan-Tang Huang, &lt;strong&gt;Chien-Chun Wang&lt;/strong&gt;, Hung-Shin Lee, Hsin-Min Wang, Berlin Chen, &amp;ldquo;&lt;a href="https://ieeexplore.ieee.org/abstract/document/11249325"&gt;DRASP: A dual-resolution attentive statistics pooling framework for automatic MOS prediction&lt;/a&gt;,&amp;rdquo; Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (&lt;em&gt;APSIPA ASC 2025&lt;/em&gt;), October 22–24, 2025, Singapore.&lt;/li&gt;
-&lt;li&gt;En-Lun Yu, &lt;strong&gt;Chien-Chun Wang&lt;/strong&gt;, Jeih-Weih Hung, Shih-Chieh Huang, Berlin Chen, &amp;ldquo;&lt;a href="https://www.isca-archive.org/interspeech_2025/yu25_interspeech.html"&gt;Flexible VAD-PVAD transition: A detachable PVAD module for dynamic encoder RNN VAD&lt;/a&gt;,&amp;ldquo;the 26st Annual Conference of the International Speech Communication Association (&lt;em&gt;Interspeech 2025&lt;/em&gt;), Rotterdam, The Netherlands, August 17-21, 2025.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Chien-Chun Wang&lt;/strong&gt;, Li-Wei Chen, Cheng-Kang Chou, Hung-Shin Lee, Berlin Chen, Hsin-Min Wang, &amp;ldquo;&lt;a href="https://ieeexplore.ieee.org/abstract/document/10889979"&gt;Channel-aware domain-adaptive generative adversarial network for robust speech recognition&lt;/a&gt;,&amp;rdquo; the 50th IEEE International Conference on Acoustics, Speech, and Signal Processing (&lt;em&gt;ICASSP 2025&lt;/em&gt;), Hyderabad, India, April 6-11, 2025.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Chien-Chun Wang&lt;/strong&gt;, Li-Wei Chen, Hung-Shin Lee, Berlin Chen, Hsin-Min Wang, &amp;ldquo;&lt;a href="https://ieeexplore.ieee.org/abstract/document/10832336"&gt;Effective noise-aware data simulation for domain-adaptive speech enhancement leveraging dynamic stochastic perturbation&lt;/a&gt;,&amp;rdquo; IEEE Spoken Language Technology Workshop (&lt;em&gt;SLT 2024&lt;/em&gt;), Macao, China, December 2–5, 2024.&lt;/li&gt;
-&lt;li&gt;Hsiao-Shen Wang, Ciao-Si Chang, &lt;strong&gt;Chien-Chun Wang&lt;/strong&gt;, Zhu-Ting Liu, Ting-Yi Hsieh, Pei-Wei Lin, “&lt;a href="https://gccce2022.ilst.nthu.edu.tw/wp-content/uploads/2022/05/GCCCE2022-Handbook.pdf"&gt;關鍵學習概念導向人體消化系統多媒體教材設計初探&lt;/a&gt;,” the 26th Global Chinese Conference on Computers in Education (&lt;em&gt;GCCCE 2022&lt;/em&gt;), Hsinchu, Taiwan; Shanghai and Hong Kong, China (Online), May 28–June 1, 2022.&lt;/li&gt;
-&lt;/ol&gt;</description></item></channel></rss>
+&lt;li&gt;&lt;strong&gt;Chien-Chun Wang&lt;/strong&gt;, Hung-Shin Lee, Hsin-Min Wang, Berlin Chen, &amp;ldquo;&lt;a href=&#34;https://arxiv.org/abs/2606.10010&#34;&gt;DeRA-MOS: Optimizing text-to-music evaluation via decoupled listwise ranking and modality alignment&lt;/a&gt;,&amp;rdquo; Accepted and to appear in &lt;em&gt;IEEE Signal Processing Letters&lt;/em&gt;, 2026.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Chien-Chun Wang&lt;/strong&gt;, Hung-Shin Lee, Hsin-Min Wang, Berlin Chen, &amp;ldquo;&lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/11373872&#34;&gt;Universal robust speech adaptation for cross-domain speech recognition and enhancement&lt;/a&gt;,&amp;rdquo; &lt;em&gt;IEEE Transactions on Audio, Speech, and Language Processing&lt;/em&gt;, Vol. 34, pp. 1229-1242, 2026.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;conference-papers&#34;&gt;Conference Papers&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Ming-Hsiang Hu, Kuan-Tang Huang, &lt;strong&gt;Chien-Chun Wang&lt;/strong&gt;, Hung-Shin Lee, Berlin Chen, &amp;ldquo;Personalized keyword spotting for user-defined keywords leveraging text-independent speaker verification,&amp;rdquo; the 27th Annual Conference of the International Speech Communication Association (&lt;em&gt;Interspeech 2026&lt;/em&gt;), Sydney, Australia, September 27-October 1, 2026.&lt;/li&gt;
+&lt;li&gt;Kuan-Tang Huang, &lt;strong&gt;Chien-Chun Wang&lt;/strong&gt;, Cheng-Yeh Yang, Hung-Shin Lee, Hsin-Min Wang, Berlin Chen, &amp;ldquo;&lt;a href=&#34;https://arxiv.org/abs/2603.16201&#34;&gt;Robust generative audio quality assessment: Disentangling quality from spurious correlations&lt;/a&gt;,&amp;rdquo; The IEEE International Conference on Multimedia &amp;amp; Expo (&lt;em&gt;ICME 2026&lt;/em&gt;), Bangkok, Thailand, 5-9 July, 2026.&lt;/li&gt;
+&lt;li&gt;Cheng-Yeh Yang, &lt;strong&gt;Chien-Chun Wang&lt;/strong&gt;, Li-Wei Chen, Hung-Shin Lee, Hsin-Min Wang, Berlin Chen, &amp;ldquo;&lt;a href=&#34;https://arxiv.org/abs/2602.22039&#34;&gt;TG-ASR: Translation-guided learning with parallel gated cross attention for low-resource automatic speech recognition&lt;/a&gt;,&amp;rdquo; the 15th edition of the Language Resources and Evaluation Conference (&lt;em&gt;LREC 2026&lt;/em&gt;), Palma de Mallorca, Spain, 11-16 May, 2026.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Chien-Chun Wang&lt;/strong&gt;, Kuan-Tang Huang, Cheng-Yeh Yang, Hung-Shin Lee, Hsin-Min Wang, Berlin Chen, &amp;ldquo;&lt;a href=&#34;https://arxiv.org/abs/2508.08957&#34;&gt;QAMRO: Quality-aware adaptive margin ranking optimization for human-aligned assessment of audio generation systems&lt;/a&gt;,&amp;rdquo; IEEE workshop on Automatic Speech Recognition and Understanding (&lt;em&gt;ASRU 2025&lt;/em&gt;), Honolulu, Hawaii, USA, December 6-10, 2025. (Challenge Track)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Chien-Chun Wang&lt;/strong&gt;, En-Lun Yu, Jeih-Weih Hung, Shih-Chieh Huang, Berlin Chen, &amp;ldquo;&lt;a href=&#34;https://arxiv.org/abs/2508.20885&#34;&gt;SincQDR-VAD: A noise-robust voice activity detection framework leveraging learnable filters and ranking-aware optimization&lt;/a&gt;,&amp;rdquo; IEEE workshop on Automatic Speech Recognition and Understanding (&lt;em&gt;ASRU 2025&lt;/em&gt;), Honolulu, Hawaii, USA, December 6-10, 2025.&lt;/li&gt;
+&lt;li&gt;Hung-Yang Sung, &lt;strong&gt;Chien-Chun Wang&lt;/strong&gt;, Kuan-Tang Huang, Tien-Hong Lo, Yu-Sheng Tsao, Yung-Chang Hsu, Berlin Chen, &amp;ldquo;&lt;a href=&#34;https://aclanthology.org/2025.rocling-main.21/&#34;&gt;CLiFT-ASR: A cross-lingual fine-tuning framework for low-resource Taiwanese Hokkien speech recognition&lt;/a&gt;,&amp;rdquo; the 37th International Conference on Computational Linguistics and Speech Processing (&lt;em&gt;ROCLING 2025&lt;/em&gt;), Taipei, Taiwan, November 20-22, 2025.  (&lt;strong&gt;Best Paper Award&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;Cheng-Yeh Yang, Kuan-Tang Huang, &lt;strong&gt;Chien-Chun Wang&lt;/strong&gt;, Hung-Shin Lee, Hsin-Min Wang, Berlin Chen, &amp;ldquo;&lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/11249325&#34;&gt;DRASP: A dual-resolution attentive statistics pooling framework for automatic MOS prediction&lt;/a&gt;,&amp;rdquo; Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (&lt;em&gt;APSIPA ASC 2025&lt;/em&gt;), October 22–24, 2025, Singapore.&lt;/li&gt;
+&lt;li&gt;En-Lun Yu, &lt;strong&gt;Chien-Chun Wang&lt;/strong&gt;, Jeih-Weih Hung, Shih-Chieh Huang, Berlin Chen, &amp;ldquo;&lt;a href=&#34;https://www.isca-archive.org/interspeech_2025/yu25_interspeech.html&#34;&gt;Flexible VAD-PVAD transition: A detachable PVAD module for dynamic encoder RNN VAD&lt;/a&gt;,&amp;rdquo; the 26th Annual Conference of the International Speech Communication Association (&lt;em&gt;Interspeech 2025&lt;/em&gt;), Rotterdam, The Netherlands, August 17-21, 2025.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Chien-Chun Wang&lt;/strong&gt;, Li-Wei Chen, Cheng-Kang Chou, Hung-Shin Lee, Berlin Chen, Hsin-Min Wang, &amp;ldquo;&lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/10889979&#34;&gt;Channel-aware domain-adaptive generative adversarial network for robust speech recognition&lt;/a&gt;,&amp;rdquo; the 50th IEEE International Conference on Acoustics, Speech, and Signal Processing (&lt;em&gt;ICASSP 2025&lt;/em&gt;), Hyderabad, India, April 6-11, 2025.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Chien-Chun Wang&lt;/strong&gt;, Li-Wei Chen, Hung-Shin Lee, Berlin Chen, Hsin-Min Wang, &amp;ldquo;&lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/10832336&#34;&gt;Effective noise-aware data simulation for domain-adaptive speech enhancement leveraging dynamic stochastic perturbation&lt;/a&gt;,&amp;rdquo; IEEE Spoken Language Technology Workshop (&lt;em&gt;SLT 2024&lt;/em&gt;), Macao, China, December 2–5, 2024.&lt;/li&gt;
+&lt;li&gt;Hsiao-Shen Wang, Ciao-Si Chang, &lt;strong&gt;Chien-Chun Wang&lt;/strong&gt;, Zhu-Ting Liu, Ting-Yi Hsieh, Pei-Wei Lin, “&lt;a href=&#34;https://gccce2022.ilst.nthu.edu.tw/wp-content/uploads/2022/05/GCCCE2022-Handbook.pdf&#34;&gt;關鍵學習概念導向人體消化系統多媒體教材設計初探&lt;/a&gt;,” the 26th Global Chinese Conference on Computers in Education (&lt;em&gt;GCCCE 2022&lt;/em&gt;), Hsinchu, Taiwan; Shanghai and Hong Kong, China (Online), May 28–June 1, 2022.&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+  </channel>
+</rss>
