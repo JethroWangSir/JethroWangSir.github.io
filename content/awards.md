@@ -1,5 +1,5 @@
 ---
-title: "Honor & Awards"
+title: "Awards"
 date: 2026-06-10
 draft: false
 ---

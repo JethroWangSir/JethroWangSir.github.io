@@ -1,5 +1,5 @@
 ---
-title: "Selected Projects"
+title: "Projects"
 date: 2026-06-11
 draft: false
 ---
