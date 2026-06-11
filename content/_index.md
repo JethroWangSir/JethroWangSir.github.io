@@ -6,16 +6,21 @@ title: "About Me"
 
 ## AI Research Engineer | Speech AI & Applied ML
 
-**Chien-Chun Wang (王建鈞)** is a Machine Learning Engineer at E.SUN Financial Holding Co., Ltd., targeting **AI Research Engineer** roles in speech AI, applied machine learning, and enterprise AI systems. His work connects research-driven model design with practical evaluation and deployment, covering **Automatic Speech Recognition (ASR)**, **Text-to-Speech (TTS)**, **Voice Activity Detection (VAD)**, **Keyword Spotting (KWS)**, **Speech Enhancement (SE)**, **Speech Quality Assessment (SQA)**, and knowledge-management evaluation workflows.
+**Chien-Chun Wang (王建鈞)** is a Machine Learning Engineer at E.SUN Financial Holding Co., Ltd., targeting **AI Research Engineer** roles in speech AI and applied machine learning. He works on research-driven model design, evaluation, and deployment for **ASR, SE, VAD, KWS, SQA, TTS**, and enterprise AI systems.
 
-**王建鈞目前任職於玉山金控，目標職位為 AI Research Engineer。** 他的專長聚焦於語音 AI、應用機器學習與企業內部 AI 系統，能將研究方法落地到模型評估、指標設計、部署流程與實務應用場景。
+**王建鈞目前任職於玉山金控，目標職位為 AI Research Engineer。** 專長聚焦於語音 AI、應用機器學習、模型評估與企業內部 AI 系統落地。
 
-### Highlights
+### Key Proof Points
 
-* Built evaluation workflows for internal knowledge-management context recall, vendor TTS deployment, and internal ASR benchmarking at E.SUN Financial Holding.
-* Published and accepted research across IEEE, ACLCLP, ISCA, and related speech/audio venues, with first-author work in robust ASR, speech enhancement, VAD, and generative audio assessment.
-* Developed **SincQDR-VAD**, a compact noise-robust VAD framework using learnable sinc filters and ranking-aware optimization, improving AUROC/F2-Score while reducing parameters compared with representative lightweight baselines.
-* Improved industrial keyword spotting models with Realtek Semiconductor Corp., achieving a **43.23% reduction in false alarms** under challenging noise conditions.
+* **First-author publications:** 2 IEEE journal papers, including IEEE TASLP 2026 and IEEE SPL 2026, plus 4 first-author conference papers at ICASSP, ASRU, and SLT.
+* **Industry AI deployment:** built internal KM context-recall evaluation, ASR benchmarking, and VoAI TTS deployment on GKE at E.SUN Financial Holding.
+* **Robust speech AI research:** developed SincQDR-VAD and improved KWS models, including a **43.23% false-alarm reduction** under challenging noise.
+
+### Research & Engineering Focus
+
+* Speech/audio AI: **ASR, SE, VAD, KWS, SQA, TTS**
+* Model evaluation: context recall, MOS prediction, ASR benchmarking, noisy-condition robustness
+* Deployment stack: cloud-native ML workflows with Docker, GKE/GCP, Azure, Linux, CUDA, and Hugging Face tooling
 
 ### Technical Stack
 

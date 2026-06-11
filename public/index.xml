@@ -1,21 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>About Me on Chien-Chun Wang's (王建鈞) Portfolio</title><link>https://JethroWangSir.github.io/</link><description>Recent content in About Me on Chien-Chun Wang's (王建鈞) Portfolio</description><generator>Hugo -- 0.157.0</generator><language>en-us</language><lastBuildDate>Wed, 10 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://JethroWangSir.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Education</title><link>https://JethroWangSir.github.io/education/</link><pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate><guid>https://JethroWangSir.github.io/education/</guid><description>&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;National Taiwan Normal University (NTNU)&lt;/strong&gt; | Taipei, Taiwan
-&lt;ul&gt;
-&lt;li&gt;M.S. in Computer Science and Information Engineering (CSIE)&lt;/li&gt;
-&lt;li&gt;Sep. 2023 - Jul. 2025 | GPA: &lt;strong&gt;4.00&lt;/strong&gt; / &lt;strong&gt;4.30&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Worked on &lt;strong&gt;SE&lt;/strong&gt; [J2, C10], &lt;strong&gt;ASR&lt;/strong&gt; [J2, C3, C6, C9], &lt;strong&gt;VAD&lt;/strong&gt; [C5, C8], and &lt;strong&gt;SQA&lt;/strong&gt; [J1, C2, C4, C7] at &lt;a href="https://www.smil.csie.ntnu.edu.tw"&gt;SMIL LAB&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Advisor: &lt;a href="https://sites.google.com/site/berlinchenatntnu/home"&gt;Dr. Berlin Chen&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;National Taichung University of Education (NTCU)&lt;/strong&gt; | Taichung, Taiwan
-&lt;ul&gt;
-&lt;li&gt;B.S. in Digital Content and Technology (DCT)&lt;/li&gt;
-&lt;li&gt;Sep. 2018 - Jun. 2022 | GPA: &lt;strong&gt;3.30&lt;/strong&gt; / &lt;strong&gt;4.30&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Worked on &lt;strong&gt;Multimedia Game Design&lt;/strong&gt; [C11].&lt;/li&gt;
-&lt;li&gt;Advisor: &lt;a href="https://itech.ntcu.edu.tw/%E7%8E%8B%E6%9B%89%E7%92%BF91%E8%B3%87%E6%96%992.htm"&gt;Dr. Hsiao-Shen Wang&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Experience</title><link>https://JethroWangSir.github.io/experience/</link><pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate><guid>https://JethroWangSir.github.io/experience/</guid><description>&lt;ul&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>About Me on Chien-Chun Wang's (王建鈞) Portfolio</title><link>https://JethroWangSir.github.io/</link><description>Recent content in About Me on Chien-Chun Wang's (王建鈞) Portfolio</description><generator>Hugo -- 0.157.0</generator><language>en-us</language><lastBuildDate>Thu, 11 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://JethroWangSir.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Experience</title><link>https://JethroWangSir.github.io/experience/</link><pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate><guid>https://JethroWangSir.github.io/experience/</guid><description>&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Machine Learning Engineer&lt;/strong&gt; | E.SUN Financial Holding Co., Ltd.
 &lt;ul&gt;
 &lt;li&gt;Current | Taipei, Taiwan&lt;/li&gt;
@@ -23,6 +6,13 @@
 &lt;li&gt;Deployed an external vendor&amp;rsquo;s &lt;strong&gt;VoAI TTS&lt;/strong&gt; model to the company&amp;rsquo;s internal &lt;strong&gt;GKE&lt;/strong&gt; environment.&lt;/li&gt;
 &lt;li&gt;Built internal &lt;strong&gt;ASR&lt;/strong&gt; evaluation workflows for benchmarking recognition quality and supporting model/vendor assessment.&lt;/li&gt;
 &lt;li&gt;玉山金控機器學習工程師，負責企業內部 KM context recall 評估、VoAI TTS 模型上 GKE 部署，以及內部 ASR 指標評估流程。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Research Collaborator&lt;/strong&gt; | United Link Co., Ltd. &amp;amp; Academia Sinica
+&lt;ul&gt;
+&lt;li&gt;Oct. 2023 - Present | Remote&lt;/li&gt;
+&lt;li&gt;In collaboration with &lt;a href="https://www.linkedin.com/in/hungshinlee/?originalSubdomain=tw"&gt;Dr. Hung-Shin Lee&lt;/a&gt; and &lt;a href="https://homepage.iis.sinica.edu.tw/pages/whm/index_en.html"&gt;Dr. Hsin-Min Wang&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Ongoing collaboration on research systems across &lt;strong&gt;SE&lt;/strong&gt; [J2, C10], &lt;strong&gt;ASR&lt;/strong&gt; [J2, C3, C9], &lt;strong&gt;SQA&lt;/strong&gt; [J1, C2, C4, C7], and &lt;strong&gt;KWS&lt;/strong&gt; [C1], contributing to publications and challenge-oriented experiments.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Software Engineer&lt;/strong&gt; | National Taiwan Normal University
@@ -45,11 +35,54 @@
 &lt;li&gt;Conducted &lt;strong&gt;SE&lt;/strong&gt; and &lt;strong&gt;VAD&lt;/strong&gt; [C5, C8] research, with emphasis on robust speech detection and speech enhancement under noisy acoustic conditions.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Collaborator&lt;/strong&gt; | United Link Co., Ltd. &amp;amp; Academia Sinica
+&lt;/ul&gt;</description></item><item><title>Selected Projects</title><link>https://JethroWangSir.github.io/projects/</link><pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate><guid>https://JethroWangSir.github.io/projects/</guid><description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Enterprise AI Evaluation &amp;amp; Speech Deployment Workflows&lt;/strong&gt; | E.SUN Financial Holding Co., Ltd.
 &lt;ul&gt;
-&lt;li&gt;Oct. 2023 - Oct. 2025 | Remote&lt;/li&gt;
-&lt;li&gt;In collaboration with &lt;a href="https://www.linkedin.com/in/hungshinlee/?originalSubdomain=tw"&gt;Dr. Hung-Shin Lee&lt;/a&gt; and &lt;a href="https://homepage.iis.sinica.edu.tw/pages/whm/index_en.html"&gt;Dr. Hsin-Min Wang&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Developed research systems across &lt;strong&gt;SE&lt;/strong&gt; [J2, C10], &lt;strong&gt;ASR&lt;/strong&gt; [J2, C3, C9], &lt;strong&gt;SQA&lt;/strong&gt; [J1, C2, C4, C7], and &lt;strong&gt;KWS&lt;/strong&gt; [C1], contributing to publications and challenge-oriented experiments.&lt;/li&gt;
+&lt;li&gt;Built evaluation workflows for internal KM context recall and internal ASR benchmarking.&lt;/li&gt;
+&lt;li&gt;Deployed an external vendor&amp;rsquo;s &lt;strong&gt;VoAI TTS&lt;/strong&gt; model to an internal &lt;strong&gt;GKE&lt;/strong&gt; environment.&lt;/li&gt;
+&lt;li&gt;Focus: enterprise AI evaluation, speech model assessment, cloud-native deployment, and reproducible benchmarking.&lt;/li&gt;
+&lt;li&gt;企業內部 AI 專案：KM context recall 指標評估、ASR 評估流程、VoAI TTS 模型上 GKE 部署。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MOS Predictor for AudioMOS Challenge 2025 - QAMRO&lt;/strong&gt; [C4] | May 2025 - Jun. 2025
+&lt;ul&gt;
+&lt;li&gt;Designed a quality-aware ranking system for evaluating text-to-speech (TTS), text-to-audio (TTA), and text-to-music (TTM) generation systems.&lt;/li&gt;
+&lt;li&gt;Achieved &lt;strong&gt;3rd place for Track 1&lt;/strong&gt; in AudioMOS Challenge 2025.&lt;/li&gt;
+&lt;li&gt;Research focus: human-aligned audio generation assessment, adaptive margin ranking, and robust MOS prediction.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/JethroWangSir/QAMRO"&gt;GitHub Repository&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Keyword Spotter&lt;/strong&gt; | Realtek Semiconductor Corp. | Mar. 2025 - May 2025
+&lt;ul&gt;
+&lt;li&gt;Improved two keyword spotting models, &lt;a href="https://github.com/JethroWangSir/bcresnet/tree/sr"&gt;BC-ResNet&lt;/a&gt; and &lt;a href="https://github.com/JethroWangSir/PhonMatchNet/tree/phonmatchnet"&gt;PhonMatchNet&lt;/a&gt;, for noisy industrial scenarios.&lt;/li&gt;
+&lt;li&gt;Achieved a &lt;strong&gt;43.23% reduction in false alarms&lt;/strong&gt; under challenging noise conditions.&lt;/li&gt;
+&lt;li&gt;Focus: robust KWS, false alarm reduction, noisy-condition evaluation, and model comparison.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Voice Activity Detector - SincQDR-VAD&lt;/strong&gt; [C5] | Realtek Semiconductor Corp. | Nov. 2024 - Feb. 2025
+&lt;ul&gt;
+&lt;li&gt;Built a compact noise-robust VAD framework using a learnable &lt;strong&gt;Sinc-extractor&lt;/strong&gt; front end and &lt;strong&gt;quadratic disparity ranking (QDR)&lt;/strong&gt; loss.&lt;/li&gt;
+&lt;li&gt;Improved robustness in low-SNR scenarios, including absolute AUROC gains on AVA-Speech and relative F2-Score gains on ACAM.&lt;/li&gt;
+&lt;li&gt;Reduced parameter count by &lt;strong&gt;31%&lt;/strong&gt; compared with a representative lightweight VAD baseline, supporting practical edge/resource-constrained deployment.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://arxiv.org/pdf/2508.20885"&gt;Paper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://huggingface.co/spaces/jethrowang/SincQDR-VAD"&gt;Hugging Face Demo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Education</title><link>https://JethroWangSir.github.io/education/</link><pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate><guid>https://JethroWangSir.github.io/education/</guid><description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;National Taiwan Normal University (NTNU)&lt;/strong&gt; | Taipei, Taiwan
+&lt;ul&gt;
+&lt;li&gt;M.S. in Computer Science and Information Engineering (CSIE)&lt;/li&gt;
+&lt;li&gt;Sep. 2023 - Jul. 2025 | GPA: &lt;strong&gt;4.00&lt;/strong&gt; / &lt;strong&gt;4.30&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Worked on &lt;strong&gt;SE&lt;/strong&gt; [J2, C10], &lt;strong&gt;ASR&lt;/strong&gt; [J2, C3, C6, C9], &lt;strong&gt;VAD&lt;/strong&gt; [C5, C8], and &lt;strong&gt;SQA&lt;/strong&gt; [J1, C2, C4, C7] at &lt;a href="https://www.smil.csie.ntnu.edu.tw"&gt;SMIL LAB&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Advisor: &lt;a href="https://sites.google.com/site/berlinchenatntnu/home"&gt;Dr. Berlin Chen&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;National Taichung University of Education (NTCU)&lt;/strong&gt; | Taichung, Taiwan
+&lt;ul&gt;
+&lt;li&gt;B.S. in Digital Content and Technology (DCT)&lt;/li&gt;
+&lt;li&gt;Sep. 2018 - Jun. 2022 | GPA: &lt;strong&gt;3.30&lt;/strong&gt; / &lt;strong&gt;4.30&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Worked on &lt;strong&gt;Multimedia Game Design&lt;/strong&gt; [C11].&lt;/li&gt;
+&lt;li&gt;Advisor: &lt;a href="https://itech.ntcu.edu.tw/%E7%8E%8B%E6%9B%89%E7%92%BF91%E8%B3%87%E6%96%992.htm"&gt;Dr. Hsiao-Shen Wang&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>Honor &amp; Awards</title><link>https://JethroWangSir.github.io/awards/</link><pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate><guid>https://JethroWangSir.github.io/awards/</guid><description>&lt;ul&gt;
@@ -101,37 +134,4 @@
 &lt;li&gt;&lt;strong&gt;Chien-Chun Wang&lt;/strong&gt;, Li-Wei Chen, Cheng-Kang Chou, Hung-Shin Lee, Berlin Chen, Hsin-Min Wang, &amp;ldquo;&lt;a href="https://ieeexplore.ieee.org/abstract/document/10889979"&gt;Channel-aware domain-adaptive generative adversarial network for robust speech recognition&lt;/a&gt;,&amp;rdquo; the 50th IEEE International Conference on Acoustics, Speech, and Signal Processing (&lt;em&gt;ICASSP 2025&lt;/em&gt;), Hyderabad, India, April 6-11, 2025.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Chien-Chun Wang&lt;/strong&gt;, Li-Wei Chen, Hung-Shin Lee, Berlin Chen, Hsin-Min Wang, &amp;ldquo;&lt;a href="https://ieeexplore.ieee.org/abstract/document/10832336"&gt;Effective noise-aware data simulation for domain-adaptive speech enhancement leveraging dynamic stochastic perturbation&lt;/a&gt;,&amp;rdquo; IEEE Spoken Language Technology Workshop (&lt;em&gt;SLT 2024&lt;/em&gt;), Macao, China, December 2–5, 2024.&lt;/li&gt;
 &lt;li&gt;Hsiao-Shen Wang, Ciao-Si Chang, &lt;strong&gt;Chien-Chun Wang&lt;/strong&gt;, Zhu-Ting Liu, Ting-Yi Hsieh, Pei-Wei Lin, “&lt;a href="https://gccce2022.ilst.nthu.edu.tw/wp-content/uploads/2022/05/GCCCE2022-Handbook.pdf"&gt;關鍵學習概念導向人體消化系統多媒體教材設計初探&lt;/a&gt;,” the 26th Global Chinese Conference on Computers in Education (&lt;em&gt;GCCCE 2022&lt;/em&gt;), Hsinchu, Taiwan; Shanghai and Hong Kong, China (Online), May 28–June 1, 2022.&lt;/li&gt;
-&lt;/ol&gt;</description></item><item><title>Selected Projects</title><link>https://JethroWangSir.github.io/projects/</link><pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate><guid>https://JethroWangSir.github.io/projects/</guid><description>&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Enterprise AI Evaluation &amp;amp; Speech Deployment Workflows&lt;/strong&gt; | E.SUN Financial Holding Co., Ltd.
-&lt;ul&gt;
-&lt;li&gt;Built evaluation workflows for internal KM context recall and internal ASR benchmarking.&lt;/li&gt;
-&lt;li&gt;Deployed an external vendor&amp;rsquo;s &lt;strong&gt;VoAI TTS&lt;/strong&gt; model to an internal &lt;strong&gt;GKE&lt;/strong&gt; environment.&lt;/li&gt;
-&lt;li&gt;Focus: enterprise AI evaluation, speech model assessment, cloud-native deployment, and reproducible benchmarking.&lt;/li&gt;
-&lt;li&gt;企業內部 AI 專案：KM context recall 指標評估、ASR 評估流程、VoAI TTS 模型上 GKE 部署。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;MOS Predictor for AudioMOS Challenge 2025 - QAMRO&lt;/strong&gt; [C4] | May 2025 - Jun. 2025
-&lt;ul&gt;
-&lt;li&gt;Designed a quality-aware ranking system for evaluating text-to-speech (TTS), text-to-audio (TTA), and text-to-music (TTM) generation systems.&lt;/li&gt;
-&lt;li&gt;Achieved &lt;strong&gt;3rd place for Track 1&lt;/strong&gt; in AudioMOS Challenge 2025.&lt;/li&gt;
-&lt;li&gt;Research focus: human-aligned audio generation assessment, adaptive margin ranking, and robust MOS prediction.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/JethroWangSir/QAMRO"&gt;GitHub Repository&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Keyword Spotter&lt;/strong&gt; | Realtek Semiconductor Corp. | Mar. 2025 - May 2025
-&lt;ul&gt;
-&lt;li&gt;Improved two keyword spotting models, &lt;a href="https://github.com/JethroWangSir/bcresnet/tree/sr"&gt;BC-ResNet&lt;/a&gt; and &lt;a href="https://github.com/JethroWangSir/PhonMatchNet/tree/phonmatchnet"&gt;PhonMatchNet&lt;/a&gt;, for noisy industrial scenarios.&lt;/li&gt;
-&lt;li&gt;Achieved a &lt;strong&gt;43.23% reduction in false alarms&lt;/strong&gt; under challenging noise conditions.&lt;/li&gt;
-&lt;li&gt;Focus: robust KWS, false alarm reduction, noisy-condition evaluation, and model comparison.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Voice Activity Detector - SincQDR-VAD&lt;/strong&gt; [C5] | Realtek Semiconductor Corp. | Nov. 2024 - Feb. 2025
-&lt;ul&gt;
-&lt;li&gt;Built a compact noise-robust VAD framework using a learnable &lt;strong&gt;Sinc-extractor&lt;/strong&gt; front end and &lt;strong&gt;quadratic disparity ranking (QDR)&lt;/strong&gt; loss.&lt;/li&gt;
-&lt;li&gt;Improved robustness in low-SNR scenarios, including absolute AUROC gains on AVA-Speech and relative F2-Score gains on ACAM.&lt;/li&gt;
-&lt;li&gt;Reduced parameter count by &lt;strong&gt;31%&lt;/strong&gt; compared with a representative lightweight VAD baseline, supporting practical edge/resource-constrained deployment.&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://arxiv.org/pdf/2508.20885"&gt;Paper&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://huggingface.co/spaces/jethrowang/SincQDR-VAD"&gt;Hugging Face Demo&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</description></item></channel></rss>
+&lt;/ol&gt;</description></item></channel></rss>
