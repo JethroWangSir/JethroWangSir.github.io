@@ -15,7 +15,7 @@ draft: false
 6. **[Conference] SLT 2024** - Effective noise-aware data simulation for domain-adaptive speech enhancement leveraging dynamic stochastic perturbation.
 
 ## Journal Papers
-1. **Chien-Chun Wang**, Hung-Shin Lee, Hsin-Min Wang, Berlin Chen, "[DeRA-MOS: Optimizing text-to-music evaluation via decoupled listwise ranking and modality alignment](https://arxiv.org/abs/2606.10010)," Accepted and to appear in *IEEE Signal Processing Letters*, 2026.
+1. **Chien-Chun Wang**, Hung-Shin Lee, Hsin-Min Wang, Berlin Chen, "[DeRA-MOS: Optimizing text-to-music evaluation via decoupled listwise ranking and modality alignment](https://ieeexplore.ieee.org/document/11557172)," Accepted and to appear in *IEEE Signal Processing Letters*, 2026.
 2. **Chien-Chun Wang**, Hung-Shin Lee, Hsin-Min Wang, Berlin Chen, "[Universal robust speech adaptation for cross-domain speech recognition and enhancement](https://ieeexplore.ieee.org/abstract/document/11373872)," *IEEE Transactions on Audio, Speech, and Language Processing*, Vol. 34, pp. 1229-1242, 2026.
 
 ## Conference Papers
