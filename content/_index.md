@@ -6,25 +6,25 @@ title: "About Me"
 
 <img src="/images/me.jpg" width="261" style="float: left; margin-right: 25px; margin-bottom: 15px; border-radius: 8px;" alt="Chien-Chun Wang">
 
-**Chien-Chun Wang (王建鈞)** is a Machine Learning Engineer at E.SUN Financial Holding Co., Ltd., targeting **AI Research Engineer** roles in speech AI and applied machine learning. He works on research-driven model design, evaluation, and deployment for **ASR, SE, VAD, KWS, SQA, TTS**, and enterprise AI systems.
+**Chien-Chun Wang (王建鈞)** is a Machine Learning Engineer at E.SUN Financial Holding Co., Ltd., targeting **AI Research Engineer** roles in speech AI and applied machine learning. He specializes in research-driven model design, evaluation, and deployment for **ASR, SE, VAD, KWS, SQA, TTS**, alongside enterprise-grade generative AI systems.
 
-**王建鈞目前任職於玉山金控，目標職位為 AI Research Engineer。** 專長聚焦於語音 AI、應用機器學習、模型評估與企業內部 AI 系統落地。
+**王建鈞目前任職於玉山金控，目標職位為 AI Research Engineer。** 專長聚焦於語音 AI 演算法開發、應用機器學習，以及企業級生成式 AI 系統與服務落地。
 
 ### Key Proof Points
 
 * **First-author publications:** 2 IEEE journal papers, including IEEE TASLP 2026 and IEEE SPL 2026, plus 4 first-author conference papers at ICASSP, ASRU, and SLT.
-* **Industry AI deployment:** built KM recall/context-recall evaluation with 600 test cases and 250 documents, MER-based ASR benchmarking, and VoAI TTS deployment on GKE.
-* **Robust speech AI research:** developed SincQDR-VAD and improved KWS models, including a **43.23% false-alarm reduction** under challenging noise.
+* **Enterprise AI production:** engineered a real-time streaming backend for a Wealth Management Copilot, automated RAG evaluation via LLM-as-a-judge, and deployed highly scalable VoAI TTS microservices on GKE.
+* **Robust speech AI research:** developed SincQDR-VAD, improved industrial KWS models (achieving a **43.23% false-alarm reduction** under challenging noise), and ranked **3rd in Track 1** at the AudioMOS Challenge 2025.
 
 ### Research & Engineering Focus
 
-* Speech/audio AI: **ASR, SE, VAD, KWS, SQA, TTS**
-* Model evaluation: context recall, MOS prediction, ASR benchmarking, noisy-condition robustness
-* Deployment stack: cloud-native ML workflows with Docker, GKE/GCP, Azure, Linux, CUDA, and Hugging Face tooling
+* **Speech & Audio AI:** ASR, SE, VAD, KWS, SQA, TTS
+* **Enterprise Generative AI:** LLM-as-a-judge evaluation frameworks, Streaming LLM architectures (Agentic Workflow, RAG)
+* **Deployment Stack:** Cloud-native ML workflows, microservices, and continuous evaluation
 
 ### Technical Stack
 
-**Python, PyTorch, Hugging Face, Whisper, Docker, CUDA, Linux, Git, GCP, Azure**
+**Python, PyTorch, Hugging Face, Whisper, LLMs (Gemini), Ragas, Docker, Kubernetes (GKE), Linux, CUDA, Server-Sent Events (SSE)**
 
 <div style="clear: both;"></div>
 
